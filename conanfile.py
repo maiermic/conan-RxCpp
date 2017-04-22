@@ -5,7 +5,7 @@ class RxCppConan(ConanFile):
   version = "4.0.0"
   settings = None
   build_policy = "missing"
-  url = "https://github.com/Reactive-Extensions/RxCpp"
+  url = "https://github.com/maiermic/conan-RxCpp"
   description = "The Reactive Extensions for C++ (RxCpp) is a library of algorithms for values-distributed-in-time."
   license = "Apache License 2.0"
 
